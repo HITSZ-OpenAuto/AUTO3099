@@ -12,4 +12,5 @@
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-10-moccasin)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![论文100%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-100%25-wheat)
+![论文100%](https://img.shields.io/badge/%E8%AE%BA%E6%96%87-100%25-wheat)
+
