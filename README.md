@@ -14,3 +14,14 @@
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 ![论文100%](https://img.shields.io/badge/%E8%AE%BA%E6%96%87-100%25-wheat)
 
+## Latex 论文模版
+
+[hitszthesis](https://github.com/YangLaTeX/hitszthesis)
+
+感谢 [YangLaTeX](https://github.com/YangLaTeX) 维护的模版
+
+## Latex Beamer 模版
+
+[hitszbeamer](https://github.com/YangLaTeX/hitszbeamer)
+
+感谢 [YangLaTeX](https://github.com/YangLaTeX) 维护的模版
