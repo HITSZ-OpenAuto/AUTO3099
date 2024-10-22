@@ -1,27 +1,41 @@
 # AUTO3099 - 毕业设计
 
-<!--
-1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。
-2. 请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，并且添加 README.md。
-3. 关于课程的描述可以不止以下几个方面，酌情增删。
-4. hoa.moe 生成本课程对应页面后，请将页面链接复制到 GitHub 仓库的 About/Website 中。
-5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
--->
-
-![考试课](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)
+![考查课](https://img.shields.io/badge/考查课-green)
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-10-moccasin)
+
+<!--
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 ![论文100%](https://img.shields.io/badge/%E8%AE%BA%E6%96%87-100%25-wheat)
+-->
 
-## Latex 论文模版
+## 大致时间节点
 
-[hitszthesis](https://github.com/YangLaTeX/hitszthesis)
+21 级的整体时间安排比往年提早约 2 周左右。
 
-感谢 [YangLaTeX](https://github.com/YangLaTeX) 维护的模版
+- 选题检查：2024年秋季学期第 6 周前（2024.9.30-2024.10.6）完成选题审核工作。
+  - 所以一开学（甚至大三下）就可以开始考虑找导师了。
+  - 需要在教务系统中提交选题。
+- 开题检查：2024年秋季学期第 9 周前（2024.10.21-2024.10.27）完成开题检查工作。
+  - 首先需要写任务书，描述立题的目的与意义（200 字左右）、研究内容、技术指标和进度安排，大概要比开题报告早一周完成。
+  - 然后要写一份开题报告，格式就是参见资料下载里的模板。一般建议开题报告不少于 15 页，因为其中内容在结题论文中尚可以复用。
+  - 开题检查每人约 7 分钟。
+- 中期检查：2025年春季学期第 2 周（2025.3.3-2025.3.9）进行中期检查，第 4 周（2025.3.17-2025.3.23）进行二次中期检查。
+- 结题检查（论文评阅）：2025年春季学期第 12 周（2025.5.12-2025.5.18）前完成结题检查（论文评阅）工作。
+- 答辩：2025年春季学期第 13 周前完成答辩（2025.5.19-2025.5.25）和优秀本科毕业论文（设计）评选工作。
 
-## Latex Beamer 模版
+## 论文模版
 
-[hitszbeamer](https://github.com/YangLaTeX/hitszbeamer)
+Word 模板见资料下载部分。目前已更新修改后的开题报告模板 ~~（教务的模板真是一坨）~~。
 
-感谢 [YangLaTeX](https://github.com/YangLaTeX) 维护的模版
+LaTeX 模板：[hitszthesis](https://github.com/YangLaTeX/hitszthesis)
+
+感谢 [YangLaTeX](https://github.com/YangLaTeX) 维护的模版。
+
+## 幻灯片模版
+
+PPTX 模板见资料下载部分。欢迎各位贡献。
+
+LaTeX Beamer 模版：[hitszbeamer](https://github.com/YangLaTeX/hitszbeamer)
+
+感谢 [YangLaTeX](https://github.com/YangLaTeX) 维护的模版。
