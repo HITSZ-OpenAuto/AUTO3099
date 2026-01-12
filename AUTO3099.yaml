@@ -1,0 +1,91 @@
+course_name: "毕业设计"
+course_code: "AUTO3099"
+notices: ""
+grading:
+  2021: "开题检查(2%) + 中期检查(3%) + 结题检查(5%) + 指导老师评分(27%) + 评阅老师评分(18%) + 答辩小组评分(45%)"
+teachers: []
+textbooks: []
+online_resources: []
+about_course:
+  - content: "21级的整体时间安排比往年提早约2周左右，以下为21级的时间节点参考："
+    submitter:
+      name: ""
+      link: ""
+  - content: |
+      选题检查：秋季学期第6周前完成。
+      建议大三下或大四一开学就开始联系导师，并在教务系统提交选题。
+    submitter:
+      name: ""
+      link: ""
+  - content: |
+      开题检查：秋季学期第9周前完成。
+      需提交任务书和开题报告（建议不少于15页，文献综述可复用），并进行约7分钟的汇报。
+    submitter:
+      name: ""
+      link: ""
+  - content: |
+      中期检查：春季学期第2周进行。
+      需提交中期报告（建议不少于10页，部分内容可复用），并进行约7分钟的汇报。
+    submitter:
+      name: ""
+      link: ""
+  - content: |
+      结题检查（论文评阅）：春季学期第12周前完成。
+      四月底有免费预查重（要求<10%）。最终论文正文不少于1.5万字。五月中旬进行结题汇报，由导师和评阅老师评分。
+    submitter:
+      name: ""
+      link: ""
+  - content: |
+      答辩：春季学期第13周前完成。
+      最终答辩约20分钟（10分钟汇报，10分钟问答），导师回避。
+    submitter:
+      name: ""
+      link: ""
+  - content: |
+      优秀毕业设计评选：每组推荐2名，总共20余人中选出11人进决赛，最终评选出7位。21级决赛形式为函评。
+    submitter:
+      name: ""
+      link: ""
+about_exam:
+  - content: |
+      最终答辩占分比例最大，且评审组会回避自己的导师，需要向不熟悉你工作的老师解释清楚。
+      答辩汇报一定不要超时，视频文件最好单独备份以防PPT播放失败。
+    submitter:
+      name: ""
+      link: ""
+  - content: "格式非常重要。在短时间内老师无法细看内容，格式是第一印象。"
+    submitter:
+      name: ""
+      link: ""
+study_advice:
+  - content: |
+      论文格式FAQ：
+      1. 公式字体：一律为 Times New Roman。
+      2. 封面标题：必须与教务系统中的标题完全一致，否则上传会报“模板错误”。
+      3. 图注：格式为“图x-x  图名”，五号字，子图(a)、(b)等也应有各自的图名。
+      4. 文献格式：GB/T 7714-2015，人名大写，除英文句点外所有标点用全角。
+      5. 页眉：除前两页外，所有页眉均为“哈尔滨工业大学本科毕业论文”。
+    submitter:
+      name: ""
+      link: ""
+schedule: []
+related_links:
+  - content: "LaTeX 论文模板 (hitszthesis)"
+    url: "https://github.com/YangLaTeX/hitszthesis"
+    submitter:
+      name: "YangLaTeX"
+      link: "https://github.com/YangLaTeX"
+  - content: "LaTeX Beamer 幻灯片模版 (hitszbeamer)"
+    url: "https://github.com/YangLaTeX/hitszbeamer"
+    submitter:
+      name: "YangLaTeX"
+      link: "https://github.com/YangLaTeX"
+misc:
+  - content: "Word 模板和 PPTX 模板见资料下载部分，由许多自救群群友助力修改，优于教务处官方模板。"
+    submitter:
+      name: ""
+      link: ""
+  - content: "论文格式 FAQ 部分待补充。"
+    submitter:
+      name: ""
+      link: ""
