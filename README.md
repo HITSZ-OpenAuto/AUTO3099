@@ -1,17 +1,19 @@
 # AUTO3099 - 毕业设计
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
-![考查课](https://img.shields.io/badge/考查课-green)
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-10-moccasin)
-
-![badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90（21级）-gold)
-![badge](https://img.shields.io/badge/开题检查-2%25-wheat)
-![badge](https://img.shields.io/badge/中期检查-3%25-wheat)
-![badge](https://img.shields.io/badge/结题检查-5%25-wheat)
-![badge](https://img.shields.io/badge/指导老师评分-27%25-wheat)
-![badge](https://img.shields.io/badge/评阅老师评分-18%25-wheat)
-![badge](https://img.shields.io/badge/答辩小组评分-45%25-wheat)
+![成绩构成](https://img.shields.io/badge/成绩构成-gold)
+![开题检查2%](https://img.shields.io/badge/开题检查-2%25-wheat)
+![中期检查3%](https://img.shields.io/badge/中期检查-3%25-wheat)
+![结题检查5%](https://img.shields.io/badge/结题检查-5%25-wheat)
+![指导老师评分27%](https://img.shields.io/badge/指导老师评分-27%25-wheat)
+![评阅老师评分18%](https://img.shields.io/badge/评阅老师评分-18%25-wheat)
+![答辩小组评分45%](https://img.shields.io/badge/答辩小组评分-45%25-wheat)
 
 ## 大致时间节点
+<!-- TOML-SECTION: title="大致时间节点" -->
+
+<!-- TOML-ITEM: id="item-大致时间节点-1" -->
 
 21 级的整体时间安排比往年提早约 2 周左右。
 
@@ -39,6 +41,9 @@
   - 优秀毕业设计的评选流程：每个组推出两名同学，这样总共会有 20 多位同学。然后选出 11 位同学进决赛圈，这几位同学需要经过答辩（21 级改为函评），最后出 7 位同学。
 
 ## 论文格式 FAQ
+<!-- TOML-SECTION: title="论文格式 FAQ" -->
+
+<!-- TOML-ITEM: id="item-论文格式 FAQ-1" -->
 
 1. 公式的字体要求是什么?
    **答：** 一律为 Times New Roman。
@@ -53,7 +58,12 @@
 
 …… 待补充
 
-## 论文模版
+## 模板说明
+<!-- TOML-SECTION: title="模板说明" -->
+
+<!-- TOML-ITEM: id="item-模板说明-1" -->
+
+### 论文模版
 
 Word 模板见资料下载部分，经过了许多自救群群友助力修改。教务的模板真是一坨。
 
@@ -61,7 +71,7 @@ LaTeX 模板：[hitszthesis](https://github.com/YangLaTeX/hitszthesis)
 
 感谢 [YangLaTeX](https://github.com/YangLaTeX) 维护的模版。21 级有同学用 LaTeX 完成毕业论文全文。
 
-## 幻灯片模版
+### 幻灯片模版
 
 PPTX 模板见资料下载部分。欢迎各位贡献。
 
