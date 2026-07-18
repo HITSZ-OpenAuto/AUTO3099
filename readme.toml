@@ -1,6 +1,6 @@
 course_name = "毕业设计"
-repo_type = "normal"
 course_code = "AUTO3099"
+repo_type = "normal"
 
 [[sections]]
 title = "大致时间节点"
@@ -38,7 +38,6 @@ title = "论文格式 FAQ"
 
 [[sections.items]]
 content = """
-
 1. 公式的字体要求是什么?
    **答：** 一律为 Times New Roman。
 2. 上传显示“模板错误”是什么原因？
@@ -52,7 +51,6 @@ content = """
 
 …… 待补充
 """
-
 
 [[sections]]
 title = "模板说明"
