@@ -1,14 +1,5 @@
 # AUTO3099 - 毕业设计
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![开题检查2%](https://img.shields.io/badge/开题检查-2%25-wheat)
-![中期检查3%](https://img.shields.io/badge/中期检查-3%25-wheat)
-![结题检查5%](https://img.shields.io/badge/结题检查-5%25-wheat)
-![指导老师评分27%](https://img.shields.io/badge/指导老师评分-27%25-wheat)
-![评阅老师评分18%](https://img.shields.io/badge/评阅老师评分-18%25-wheat)
-![答辩小组评分45%](https://img.shields.io/badge/答辩小组评分-45%25-wheat)
 
 ## 大致时间节点
 <!-- TOML-SECTION: title="大致时间节点" -->
