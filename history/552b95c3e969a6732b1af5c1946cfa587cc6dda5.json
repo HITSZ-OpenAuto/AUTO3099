@@ -1,0 +1,122 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814284,
+    "hash": "bdb4422f5a2d875d2a41a06c2b66fc88d6b9e166"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1715237613,
+    "hash": "5016a094d8441340dc2e544d813f2976f7f9eded"
+  },
+  "README.md": {
+    "size": 5385,
+    "time": 1791961331,
+    "hash": "552b95c3e969a6732b1af5c1946cfa587cc6dda5"
+  },
+  "ppt_template/README.md": {
+    "size": 45,
+    "time": 1729588599,
+    "hash": "dc6e3e56a491e5f27c1583a520c4fccb47908be9"
+  },
+  "ppt_template/带校标开题答辩模板0.pptx": {
+    "size": 1189801,
+    "time": 1729687282,
+    "hash": "88e34d9900b4229b6015c754bed7198ffc455906"
+  },
+  "ppt_template/带校标通用答辩模板1.pptx": {
+    "size": 2508335,
+    "time": 1729687282,
+    "hash": "88e34d9900b4229b6015c754bed7198ffc455906"
+  },
+  "ppt_template/带校标通用答辩模板2.pptx": {
+    "size": 272708,
+    "time": 1729687282,
+    "hash": "88e34d9900b4229b6015c754bed7198ffc455906"
+  },
+  "ppt_template/带校标通用答辩模板3.pptx": {
+    "size": 1252761,
+    "time": 1729687282,
+    "hash": "88e34d9900b4229b6015c754bed7198ffc455906"
+  },
+  "ppt_template/带校标通用答辩模板4.pptx": {
+    "size": 980691,
+    "time": 1729687282,
+    "hash": "88e34d9900b4229b6015c754bed7198ffc455906"
+  },
+  "ppt_template/带校标通用答辩模板5.pptx": {
+    "size": 1330952,
+    "time": 1729687282,
+    "hash": "88e34d9900b4229b6015c754bed7198ffc455906"
+  },
+  "ppt_template/带校标通用答辩模板6.pptx": {
+    "size": 1057415,
+    "time": 1729687282,
+    "hash": "88e34d9900b4229b6015c754bed7198ffc455906"
+  },
+  "ppt_template/带校标通用答辩模板7.pptx": {
+    "size": 12444971,
+    "time": 1729687282,
+    "hash": "88e34d9900b4229b6015c754bed7198ffc455906"
+  },
+  "ppt_template/带校标通用答辩模板8.pptx": {
+    "size": 2132742,
+    "time": 1729687282,
+    "hash": "88e34d9900b4229b6015c754bed7198ffc455906"
+  },
+  "ppt_template/带校标通用答辩模板9.pptx": {
+    "size": 167852,
+    "time": 1729687282,
+    "hash": "88e34d9900b4229b6015c754bed7198ffc455906"
+  },
+  "ppt_template/通用答辩模板1.pptx": {
+    "size": 4592825,
+    "time": 1729687282,
+    "hash": "88e34d9900b4229b6015c754bed7198ffc455906"
+  },
+  "ppt_template/通用答辩模板2.pptx": {
+    "size": 3508646,
+    "time": 1729687282,
+    "hash": "88e34d9900b4229b6015c754bed7198ffc455906"
+  },
+  "ppt_template/通用答辩模板3.pptx": {
+    "size": 45645528,
+    "time": 1729687282,
+    "hash": "88e34d9900b4229b6015c754bed7198ffc455906"
+  },
+  "ppt_template/通用答辩模板4.pptx": {
+    "size": 13335875,
+    "time": 1729687282,
+    "hash": "88e34d9900b4229b6015c754bed7198ffc455906"
+  },
+  "ppt_template/通用答辩模板5.pptx": {
+    "size": 31023298,
+    "time": 1729687282,
+    "hash": "88e34d9900b4229b6015c754bed7198ffc455906"
+  },
+  "readme.toml": {
+    "size": 5276,
+    "time": 1784383689,
+    "hash": "b1ee0b27bd7ed8d8ee9b8cb6994e87aac9902065"
+  },
+  "word_template/2024 - 本科毕业设计中期模板(修改) - v2.0.doc": {
+    "size": 559104,
+    "time": 1753449298,
+    "hash": "5605cb74250b5b73f629a8a4df25037a4e2316f0"
+  },
+  "word_template/2024 - 本科毕业设计开题模板(修改) - v2.0.doc": {
+    "size": 166400,
+    "time": 1729588599,
+    "hash": "dc6e3e56a491e5f27c1583a520c4fccb47908be9"
+  },
+  "word_template/README.md": {
+    "size": 95,
+    "time": 1729588599,
+    "hash": "dc6e3e56a491e5f27c1583a520c4fccb47908be9"
+  },
+  "word_template/本科毕业论文模板_修改v1.7.docx": {
+    "size": 253857,
+    "time": 1747842176,
+    "hash": "dd65b2956651c7d4a310dc8ea925df58a6d98038"
+  }
+}
